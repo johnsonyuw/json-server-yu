@@ -1,9 +1,6 @@
 {
-  "posts": [
-    { "id": 1, "title": "json-server", "author": "typicode" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 }
-  ],
-  "profile": { "name": "typicode" }
-}
+    "sudokugame": [
+      { "id": "111", "time": "20240107104912","level":"1","fillContent":"" }
+    ]
+    
+  }
